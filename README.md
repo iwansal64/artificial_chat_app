@@ -1,13 +1,13 @@
------- PLAN -------
+# => PLAN
 
-Process:
+### => Process
 - Two terminals used:
 	1. Chat  Terminal
 	2. Input Terminal
 - Those terminals send data through file inside /.var/a_c folder
 
 
-Features:
+### => Features
 - Basic AI Chatting		: send messages, AI can response to that.
 - Notifications 		: sounds of new chat, sending chat, etc (idk what else)
 - Typing Indicator		: We can't see the text generated from AI but, it should wait until the AI complete and only then it send the message. It also has typing indicator if it currently generating the text
