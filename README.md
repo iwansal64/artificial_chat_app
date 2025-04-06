@@ -1,13 +1,18 @@
 # PLAN
 
-### => Process
+### a. What is this
+A program that can run an AI locally and chat with them with custom persona with additional features that I hope it exists in C.AI :) .
+(I know, I'll get cooked but,.. idc tbh (I've already beyond cooked rn))
+
+### b. What it will looks like
+- Linux only (not racist btw but, yes.. Nahh actually I'll literally using some linux commands in this code so, Maybe next time (i hope (if I'm still alive)))
 - Two terminals used:
-	- Chat  Terminal
-	- Input Terminal
-- Those terminals send data through file inside /.var/a_c folder
+	- Chat  Terminal (chat container box equivalent)
+	- Input Terminal (message input box equivalent)
+- Those terminals send data through file inside /.var/a_c folder (chat terminal will read per second or half)
 
 
-### => Features
+### c. Targeted Features (WISH ME LUCK)
 - Basic AI Chatting		: send messages, AI can response to that.
 - Notifications 		: sounds of new chat, sending chat, etc (idk what else)
 - Typing Indicator		: We can't see the text generated from AI but, it should wait until the AI complete and only then it send the message. It also has typing indicator if it currently generating the text
