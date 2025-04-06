@@ -1,9 +1,9 @@
-# => PLAN
+# PLAN
 
 ### => Process
 - Two terminals used:
-	1. Chat  Terminal
-	2. Input Terminal
+	- Chat  Terminal
+	- Input Terminal
 - Those terminals send data through file inside /.var/a_c folder
 
 
