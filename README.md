@@ -23,3 +23,12 @@ A program that can run an AI locally and chat with them with custom persona with
 - Scallable Memory 		: memory optimization (probably last for 2 days or so (i hope it can last 1629510 years or around (or even more (pls))))
 - Voice Notes (?)		: the AI can sends a voice message
 - Image (?)				: user or the AI can sends an image
+
+
+# NOTE
+```
++------------------------------------------------------------------+
+| Cause I currently have some other projects that more important,  |
+| this project will be archieved until I'm finsih with those :)    |
++------------------------------------------------------------------+
+```
