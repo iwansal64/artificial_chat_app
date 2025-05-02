@@ -29,6 +29,6 @@ A program that can run an AI locally and chat with them with custom persona with
 ```
 +------------------------------------------------------------------+
 | Cause I currently have some other projects that more important,  |
-| this project will be archieved until I'm finsih with those :)    |
+| this project will be archieved until I finish with those :)      |
 +------------------------------------------------------------------+
 ```
